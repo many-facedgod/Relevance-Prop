@@ -1,0 +1,3 @@
+[submodule "Numpy-Atrous-Transposed-CNN"]
+	path = Numpy-Atrous-Transposed-CNN
+	url = https://github.com/many-facedgod/Numpy-Atrous-Transposed-CNN
